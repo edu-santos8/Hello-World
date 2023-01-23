@@ -1,6 +1,8 @@
 * {
- font-family: Arial;
- box-sizing: border-box;
+    font-family: Arial;
+    box-sizing: border-box;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 h1 {
@@ -13,8 +15,6 @@ h1 {
     flex-wrap: wrap;
     align-items: center;
     margin-top: 30px;
-    margin-left: 20px;
-    margin-right: 20px;
 }
 
 .box_1 {
