@@ -50,9 +50,13 @@ div {
 }
 
 button {
-    background-color: rgb(59, 156, 88);
+    margin: 5px;
     color: white;
     padding: 5px 15px;
     border-radius: 8px;
-    border: solid 1px rgb(59, 156, 88);
+    border: none;
+}
+
+#upvote {
+    background-color: rgb(59, 156, 88);
 }
