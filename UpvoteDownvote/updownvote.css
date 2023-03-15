@@ -60,3 +60,12 @@ button {
 #upvote {
     background-color: rgb(59, 156, 88);
 }
+
+#downvote {
+    background-color: rgb(235, 78, 78);
+}
+
+#votes {
+    font-weight: bold;
+    font-size: 20px;
+}
