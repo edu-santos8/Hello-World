@@ -24,6 +24,10 @@ a {
     margin-left: 20px;
 }
 
+a:hover {
+    background-color: rgb(122, 121, 121);
+}
+
 h1 {
     text-align: center;
     margin-top: 30px;
