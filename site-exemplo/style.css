@@ -26,6 +26,8 @@ a {
 }
 
 .items {
+    width: 20%;
+    text-align: center;
     background-color: rgb(125, 222, 241);
     padding: 8px 15px;
     border-radius: 8px;
