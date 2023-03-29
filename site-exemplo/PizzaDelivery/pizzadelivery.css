@@ -1,4 +1,5 @@
-p {
-    background-color: yellow;
-    color: blueviolet;
+body {
+    background-color: linen;
+    color: rgb(39, 39, 39);
+    font-family: "Verdana", sans-serif;
 }
