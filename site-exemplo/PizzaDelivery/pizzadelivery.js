@@ -1,3 +1,4 @@
+
 const orderList = document.getElementById("orders");
 
 const marinara = document.createElement("li");
@@ -13,3 +14,5 @@ const margherita = document.getElementById("margherita");
 orderList.removeChild(margherita);
 
 readyList.appendChild(margherita);
+
+ 
